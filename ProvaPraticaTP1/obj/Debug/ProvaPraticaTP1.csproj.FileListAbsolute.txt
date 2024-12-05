@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\bin\Debug\ProvaPraticaTP1.exe.config
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\bin\Debug\ProvaPraticaTP1.exe
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\bin\Debug\ProvaPraticaTP1.pdb
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.exe
+C:\Users\aluno\source\repos\ProvaPraticaTP1\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.pdb
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\bin\Debug\ProvaPraticaTP1.exe.config
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\bin\Debug\ProvaPraticaTP1.exe
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\bin\Debug\ProvaPraticaTP1.pdb
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.csproj.AssemblyReference.cache
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.exe
+C:\Users\aluno\Source\Repos\ProvaPraticaTP1\obj\Debug\ProvaPraticaTP1.pdb
